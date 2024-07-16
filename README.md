@@ -9,7 +9,7 @@
 
 
 <p align="center">
- <img  src="Images/tanks.jpg" width="600px" >
+ <img  src="Images/Game_1_1" width="600px" >
  </br>
  <img  src="Images/playing.jpg" width="600px" >
  </br>
@@ -19,9 +19,7 @@
 
 # 
 
-3D Tanks Game is a 2 player shooter game using one keyboard that uses simple game mechanics, integrating world and screen space UI, as well as game architecture and audio mixing...
-
-It was implemented following [Tanks Tutorial](https://learn.unity.com/project/tanks-tutorial) on Unity Learn Platform, it was originally recorded at Unite Boston 2015.
+3D Cosmic Onslaught - На вас нападают погибшие члены космической станции, ваша задача уничтожить всех заражонных работников.
 
 
 ## Images 
@@ -38,16 +36,14 @@ It was implemented following [Tanks Tutorial](https://learn.unity.com/project/ta
 
 # 
 
-3D Tanks Game is a 2 player shooter game using one keyboard that uses simple game mechanics, integrating world and screen space UI, as well as game architecture and audio mixing...
-
-It was implemented following [Tanks Tutorial](https://learn.unity.com/project/tanks-tutorial) on Unity Learn Platform, it was originally recorded at Unite Boston 2015.
+2D Reactor Protection - Так же нападение галактических волков, ваша миссия не дать сломать реактор который питает подземный мир, реактор питается ягодами вам придется успевать собирать ягоды и убивать волков
 
 
 ## Images 
 
 
 <p align="center">
- <img  src="Images/tanks.jpg" width="600px" >
+ <img  src="Images" width="600px" >
  </br>
  <img  src="Images/playing.jpg" width="600px" >
  </br>
