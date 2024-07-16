@@ -9,7 +9,7 @@
 
 
 <p align="center">
- <img  src="Images/Game_1_1.png" width="600px" >
+ <img  src="Image/Game_1_1.png" width="600px" >
  </br>
  <img  src="Images/playing.jpg" width="600px" >
  </br>
