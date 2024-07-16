@@ -24,9 +24,9 @@
 
 
 <p align="center">
- <img  src="Image/Game_2_1.png" width="600px" >
+ <img  src="Image/Game_2_1.jpg" width="600px" >
  </br>
- <img  src="Image/Game_2_2.png" width="600px" >
+ <img  src="Image/Game_2_2.jpg" width="600px" >
  </br>
 </p>
 
